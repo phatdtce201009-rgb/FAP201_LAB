@@ -1,0 +1,43 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.01 Education (64-bit)"
+//Sun Sep 13 15:48:56 2026
+
+//Source file index table:
+//file0 "\D:/Lab_FAP201/Fap201-Lab01/src/Lab01.v"
+//file1 "\D:/Lab_FAP201/Fap201-Lab01/src/Lab01tb.v"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+mVFJgjludrMh51kkKWv1G9l1EroH0nvUjMEpPdWU0i7sfK+Erj3St0oaYjeIeVaH4TmtrnlxSOT0
+KjJxpS4QbpOicMf8aGpwO6sjmRJyeEtzxdflBlNRpGF9E0FR9B0UBMtHmNcadzdR+VXY5GNKoZX+
+HbfJR7CFa4xmYPr8W0MTuvk8io0kjB3aU+w02JGZY+xwH/4lLmRQtmJJJdLYimRLd2G56ANX3B5z
+vRCQxmqN4WYcSoRD02Xns6OFQnCElAZdhMQycG0UqePzNNWy9Lbrz4M1BwIUL0uGCbFc3dkEgNQ2
++DLdPLz4PkpCktIjO0aiIb8dfgn+oB4YxVhNoQ==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=736)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+ApFs8RTKumPu5qcbigiadsex/Mmjy08izaWGpSAKi7p1youyGupimeIBbeuJjUfBOHhrNNHf7ZDL
+kT/sXSNrje8odFA3ogvZ6K8fxOWW+ImbyxZW5wcI0zoedQhmuw9YuffhOqva7moh53lvtam5ODIe
+q+ICKY+12QODmWl9eBm4KM+q6fJZsv/6c19QSVphWgUimS7/HsbT0H13A5OaWqgCk2UnAivtqgTr
+SfGZq8LTyEOyQ1f+8GmN27LAE/x8xofUbviJbmPDI2KlbSExZL1koZEVj8DwLgfG/NuiORLwtKAV
+cuL/Q/zf6kDjp/P6iNw/6q8GyvIfeS3WoyrRA3ZuvtclVZ68VJ4DDhA2dCINJR2UoL23ZIrlt2K4
+uMgT/17JhPDX41zBCIaslE0fq1qif6kxzoSlbkEcDgEf+eI4RMG80yl2a8tslud2MopEa5w9fXA7
+FuyTmAU6ukdX3xDtEDhEzXiJYQ8m1Ejaex9HvWbGLQw6oC3bqyqIufbpOyqqG7OnRMW9g5QHEybS
+3pOOAaiGagLBcsnnBjY4v3fauVzsHpIYbHTuoIqW4mAsFoZGuTwfngZhtOktXtgf5arpp5D8tRz+
+qSh6Cirhd3lOIj++boWYCtUYiYJTTJ1SEsI1zNeLRXv7Znx1RvPJGsKOsVkn+pfgzbRTuVcz+ktg
+8wbaJ+wu5eZs6m38W9RleUfa0MuJlI+mnamTMYKgxMkjDeTnNfvMZ+/s+hZYimCaaR+sFqOcg/Id
+m9oroffhSS+nBspqxI7d5Safa50b97H+PhSfOQEkEvVB8elLayjBYdffJaqpaASG2hdCJVtWHC3N
+8FEuydxFWVth3h5Km11RPOBH/yNfT6gK7d79wC5aeRuVITaoWMEaTttqx8RTM46nLx5GrB/xrFy+
+zZnEnKgOeeghiux5D0/Myeb6kKJigDmoC2G1KXCHBlw+9+hqXSrmatXekb29+2vHfAtMbQ==
+`pragma protect end_protected
